@@ -22,7 +22,10 @@ This project demonstrates modern web development practices, animation effects, a
 - **React.js** – Component-based front-end library  
 - **Tailwind CSS** – Utility-first CSS framework  
 - **Framer Motion** – For smooth animations  
-- **Vite** – Lightning-fast development build tool  
+- **Vite** – Lightning-fast development build tool
+
+- 📺 Demo Video
+<a href="https://youtu.be/MJGoYlFWzoE"> 
 
 ---
 
