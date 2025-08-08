@@ -24,9 +24,11 @@ This project demonstrates modern web development practices, animation effects, a
 - **Framer Motion** – For smooth animations  
 - **Vite** – Lightning-fast development build tool
 
-📺 Demo Video
-<a href="https://youtu.be/MJGoYlFWzoE" target="_blank"> <img src="https://img.youtube.com/vi/MJGoYlFWzoE/0.jpg" alt="Watch Demo" width="600"/> </a> 
----
+## 🌐 Live Demo
+
+🚀 [View Live Demo](https://youtu.be/MJGoYlFWzoE)  
+>
+> 
 
 ## 🚀 Getting Started
 
