@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
   <br />
     <a href="https://youtu.be/zA9r5zTllx4" target="_blank">
@@ -445,3 +446,6 @@ detailed explanations, cool features, and exercises to boost your skills. Give i
 <a href="https://jsmastery.pro/next15" target="_blank">
    <img src="https://github.com/user-attachments/assets/b8760e69-1f81-4a71-9108-ceeb1de36741" alt="Project Banner">
 </a>
+=======
+# Zentry-website-clone
+>>>>>>> 9891d4029345d49f615cb8d7d5a5b5346aa5d00f
