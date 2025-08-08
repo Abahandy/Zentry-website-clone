@@ -3,7 +3,7 @@
 A fully responsive and visually stunning replica of the **Zentry** official website, built with **React** and **Tailwind CSS**.  
 This project demonstrates modern web development practices, animation effects, and a clean UI/UX approach.
 
-![Project Cover](src/assets/images/zentry-cover.png)
+![Project Cover](src/assets/zentry-cover.png)
 
 ---
 
